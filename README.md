@@ -1,5 +1,5 @@
 # Colaboración
-Esta linea se modifico remotamente
+Esta linea se modifico remotamente letras random loremlorem
 
 ## Lo que quiero aprender
 
