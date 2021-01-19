@@ -1,5 +1,5 @@
 # Colaboración
-HAZ UN PULL PLSS
+HAZ UN PULL PLSS asdf
 
 
 ## Lo que quiero aprender
