@@ -1,5 +1,5 @@
 # Colaboración
-Esta linea se modifico remotamente letras random loremlorem MODIFICACION EXTREMA
+haz un pull pls
 
 
 ## Lo que quiero aprender
