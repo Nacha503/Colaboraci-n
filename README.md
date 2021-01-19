@@ -1,5 +1,5 @@
 # Colaboración
-Este repositorio será utilizado para poner en practica los conceptos sobre git y github
+Esta linea se modifico remotamente
 
 ## Lo que quiero aprender
 
