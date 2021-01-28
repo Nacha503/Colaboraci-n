@@ -1,0 +1,69 @@
+BODY {
+    margin: 20px 0px 20px 0px;
+    
+    background-color: #dd0909;
+    font-family: arial;
+    font-size: 12pt;
+    }
+    
+ .page{
+    display: block;
+    width: 1000px;
+    min-height: 800px;
+    overflow: auto;
+    margin: 0px auto 0px auto;
+    box-sizing: border-box;
+    }
+    
+ .pageHeader{
+    background-color: #0e1e1f;
+    text-align: center;
+    color: #FFFFFF;
+    float: left;
+    clear: none;
+    min-height: 150px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+        }
+ 
+ .pageNavigationBar{
+    background-color: #2a2dee;
+    color: #FFFFFF;
+    text-align: center;
+    float: left;
+    clear: none;
+    min-height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    justify-content:stretch;
+    }
+    
+ .pageContent{
+    background-color: #FFFFFF;
+    float: left;
+    clear: none;
+    min-height: 550px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    }
+    
+ .pageFooter{
+    background-color: #2a2dee;
+    float: left;
+    clear: none;
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    }
+
+p{
+    display: inline-block;
+    width: 60px;
+}
+
